@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "target": "ESNext"
+  },
+  "include": [
+    "typescript*/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules/"
+  ]
+}
